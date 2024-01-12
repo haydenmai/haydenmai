@@ -7,9 +7,10 @@ I am currently a student focusing on Economic Data Analysis at Simon Fraser Univ
 So far, there are not a lot of projects. However, I have many ideas in the works!
 
 -  [Google Data Analytic Capstone Project](https://github.com/haydenmai/Google-Data-Analytics-Project)
--  [Card Guessing Game](https://github.com/haydenmai/Card-Probability-Calculator)
+-  [Card Guessing Probability Calculator](https://github.com/haydenmai/Card-Probability-Calculator)
 
 ## 🔍 My Current/Planned Projects
+- [Card Guessing Game](https://github.com/haydenmai/Card-Probability-Calculator)
 - A simulation of a small economy based on probability and economics
 - A hands on statistical analysis of determinants of income (transportation, language, housing) from the Canadian Census.
 

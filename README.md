@@ -8,6 +8,7 @@ So far, there are not a lot of projects. However, I have many ideas in the works
 
 -  [Google Data Analytic Capstone Project](https://github.com/haydenmai/Google-Data-Analytics-Project)
 -  [Card Guessing Probability Calculator](https://github.com/haydenmai/Card-Probability-Calculator)
+-  [Zero Sum Game](https://github.com/haydenmai/Zero-Sum-Game)
 
 ## 🔍 My Current/Planned Projects
 - [Card Guessing Game](https://github.com/haydenmai/Card-Probability-Calculator)

@@ -1,7 +1,7 @@
 # Welcome! 🖐️ 
 Thanks for visitng my GitHub!
 
-I am currently a student focusing on Economic Data Analysis at Simon Fraser University. Usually, my semester mainly consists of economics, computer science, and often statistics. With a wide range of topics I can choose from, I find it to be very refreshing to study new and old ideas every semester!
+I am currently a student focusing on economics and computer science at Simon Fraser University. Usually, my semester mainly consists of economics, computer science, and often statistics. With a wide range of topics I can choose from, I find it to be very refreshing to study new and old ideas every semester!
 
 ## 📌 My Completed Projects
 So far, there are not a lot of projects. However, I have many ideas in the works!

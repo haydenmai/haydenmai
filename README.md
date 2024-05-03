@@ -7,19 +7,12 @@ I am currently a student focusing on economics and computer science at Simon Fra
 So far, there are not a lot of projects. However, I have many ideas in the works!
 
 -  [Google Data Analytic Capstone Project](https://github.com/haydenmai/Google-Data-Analytics-Project)
--  [Card Guessing Probability Calculator](https://github.com/haydenmai/Card-Probability-Calculator)
+-  [Card Guessing Probability Calculator/Game](https://github.com/haydenmai/Card-Probability-Calculator)
 -  [Colourful Zero Sum Game](https://github.com/haydenmai/Colourful-Zero-Sum)
 
 ## 🔍 My Current/Planned Projects
-- [Card Guessing Game](https://github.com/haydenmai/Card-Probability-Calculator)
 - A simulation of a small economy based on probability and economics
 - A hands on statistical analysis of determinants of income (transportation, language, housing) from the Canadian Census.
-
-## 📖 What I'm learning
-### At School:
-- **ECON 335**: Cause and Effect in Economic Data
-- **CMPT 225**: Data Structures and Programming
-- **STAT 271**: Probability and Statistics for Computing Science 
 
 ### Outside:
 

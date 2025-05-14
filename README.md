@@ -1,7 +1,8 @@
 # Welcome! 🖐️ 
-Thanks for visitng my GitHub!
+Thanks for stopping by my GitHub account!
 
-I am currently a student focusing on economics and computer science at Simon Fraser University. Usually, my semester mainly consists of economics, computer science, and often statistics. With a wide range of topics I can choose from, I find it to be very refreshing to study new and old ideas every semester!
+## About Me
+I am currently studying economics (mostly econometrics) and computer science at Simon Fraser University (SFU). I have recently been spending most of my free time tinkering with microcontrollers, while incidentally learning new computer system topics at the same time. 
 
 ## 🔨 Work in progress
 -  [Controllable Plane using Pi Pico & ExpressLRS](https://github.com/haydenmai/pico-plane.git)
@@ -13,7 +14,5 @@ Here are some cool projects I've completed so far from most recent to oldest:
 -  [Vancouver Crime Rate Analysis & Modelling](https://github.com/haydenmai/van-crime-census)
 -  [Google Data Analytic Capstone Project](https://github.com/haydenmai/Google-Data-Analytics-Project)
 -  [Card Guessing Probability Calculator/Game](https://github.com/haydenmai/Card-Probability-Calculator)
--  [Colourful Zero Sum Game](https://github.com/haydenmai/Colourful-Zero-Sum)
-
 
 

@@ -7,7 +7,8 @@ I am currently studying economics (mostly econometrics) and computer science at 
 
 ## 🔨 Work in progress
 -  [Controllable plane using RP2040 (Pi Pico) & ExpressLRS receiver](https://github.com/haydenmai/pico-plane.git)
-    - Implementing CRSF protocol, electronic speed controller (ESC), and MicroSD card module for IMU data via SPI. 
+    - Implementing CRSF protocol, electronic speed controller (ESC), and MicroSD card module for IMU data via SPI.
+    - The plane 3D model we are using is the [Micro Sportcam](https://www.3daeroventures.com/microsportcam) (subject to change).
 
 ## 📌 My Completed Projects
 Here are some cool projects I've completed so far from most recent to oldest:

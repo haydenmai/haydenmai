@@ -7,11 +7,15 @@ I am currently studying economics (mostly econometrics) and computer science at 
 
 ## 🔨 Work in progress
 -  [Controllable plane using RP2040 (Pi Pico) & ExpressLRS receiver](https://github.com/haydenmai/pico-plane.git)
+    - Implementing CRSF protocol, electronic speed controller (ESC), and MicroSD card module for IMU data via SPI. 
 
 ## 📌 My Completed Projects
 Here are some cool projects I've completed so far from most recent to oldest:
 
 -  [Vending Machine with RFID](https://github.com/haydenmai/cmpt433-project.git)
+    - Fully 3D printed vending machine towers (up to 9 'slots') with the BeagleY-AI. Payment system is supported by a RFID module & verified using a locally hosted server on a separate computer. 
+-  Effects of Self-perception on Health
+    - An econmetrics paper written for ECON 435: Econometrics Method. This paper explores the possible causal effect of self-perceived health on actual health and behaviours. 
 -  [Vancouver Crime Rate Analysis & Modelling](https://github.com/haydenmai/van-crime-census)
 -  [Google Data Analytic Capstone Project](https://github.com/haydenmai/Google-Data-Analytics-Project)
 -  [Card Guessing Probability Calculator/Game](https://github.com/haydenmai/Card-Probability-Calculator)

@@ -2,8 +2,7 @@
 Thanks for stopping by my GitHub account!
 
 ## About Me
-I am currently studying economics (mostly econometrics) and computer science at Simon Fraser University (SFU). I’ve recently been spending most of my free time tinkering with microcontrollers, and in the process, I’m learning new topics in computer systems.
-
+I am currently studying economics (mostly econometrics) and computer science at Simon Fraser University. I’ve recently been spending most of my free time tinkering with microcontrollers, and in the process, I’m learning new topics in computer systems.
 
 ## 🔨 Work in progress
 -  [Controllable plane using RP2040 (Pi Pico) & ExpressLRS receiver](https://github.com/haydenmai/pico-plane.git)

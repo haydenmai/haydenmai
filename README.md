@@ -5,7 +5,7 @@ Thanks for stopping by my GitHub account!
 I am currently studying economics (mostly econometrics) and computer science at Simon Fraser University. I’ve recently been spending most of my free time tinkering with microcontrollers, and in the process, I’m learning new topics in computer systems.
 
 ## 🔨 Work in progress
--  [Controllable plane using RP2040 (Pi Pico) & ExpressLRS receiver](https://github.com/haydenmai/pico-plane.git)
+-  [Controllable FPV plane using RP2040 (Pi Pico) & ExpressLRS receiver](https://github.com/haydenmai/pico-plane.git)
     - Implementing CRSF protocol, electronic speed controller (ESC), and MicroSD card module for IMU data via SPI.
     - The plane 3D model we are using is the [Micro Sportcam](https://www.3daeroventures.com/microsportcam) (subject to change).
 

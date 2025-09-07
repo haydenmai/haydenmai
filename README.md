@@ -4,13 +4,14 @@ Thanks for stopping by my GitHub account!
 ## About Me
 I am currently studying economics (mostly econometrics) and computer science at Simon Fraser University. I’ve recently been spending most of my free time tinkering with microcontrollers & looking into robotics. 
 
-## 🔨 Work in progress
+## 🔨 Ongoing Projects
 -  [Controllable FPV plane using RP2040 (Pi Pico) & ExpressLRS receiver](https://github.com/haydenmai/pico-plane.git)
     - Implementing electronic speed controller (ESC), FPV Camera, CRSF protocol handling.
     - Multicore architecture:
         - One core to receive control data & handle telemetry data.
         - One core processes the data to control servos & ESC.
     - The plane 3D model we are using is the [Micro Sportcam](https://www.3daeroventures.com/microsportcam) (subject to change).
+- [PacerBot, an assistant for runners while running](https://github.com/themchandra/PacerBot)
 
 ## 📌 My Completed Projects
 Here are some cool projects I've completed so far from most recent to oldest:

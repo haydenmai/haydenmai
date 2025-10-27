@@ -32,11 +32,4 @@ Here are some projects I've completed so far from most recent to oldest:
 	- Merged various municipal crime and census datasets using geospatial joins and Python (Pandas, GeoPandas).
 	- Built and maintained analysis pipelines for prediction, identifying key socioeconomic factors for local crime rate via visualization (Matplotlib) and statistical models (Scikit-learn).
 
--  [**Google Data Analytic Capstone Project**](https://github.com/haydenmai/Google-Data-Analytics-Project)
-	- Focused on creating reusable R code
-	- Practiced visualizations and data analysis
-
--  [**Card Guessing Probability Calculator/Game**](https://github.com/haydenmai/Card-Probability-Calculator)
-	- An old mini-project for us to learn more about statistics and programming.
-
  Thanks for stopping by!!

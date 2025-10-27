@@ -5,6 +5,8 @@ I am Hayden, a student studying economics and computer science at Simon Fraser U
 
 I often keep myself busy with microcontrollers & robotics related things such as simulation and data filter and estimation. 
 
+Below are some of the projects I'm working or done, most of which are private due to privacy concerns. If you are interested and would like to talk, feel free to reach out via email: hgm2@sfu.ca.
+
 ## Ongoing
 - [**PacerBot, an assistant for runners while running**](https://github.com/themchandra/PacerBot)
 	- Developing a robust UART communication line between Raspberry Pi and STM32.

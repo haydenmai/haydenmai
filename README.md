@@ -1,11 +1,11 @@
 ## About
 I am Hayden, a student studying economics and computer science at Simon Fraser University. 
 - **Economics**: Econometrics & data science, involving policy evaluation & forecasting.
-- **Computer Science**: Embedded systems, machine learning, data processing.
+- **Computer Science**: Embedded systems, machine learning, robotics.
 
-I often keep myself busy with microcontrollers & robotics related things such as simulation and data filter and estimation. 
+I often keep myself busy with microcontrollers & robot things such as SLAM. 
 
-Below are some of the projects I'm working or done, most of which are private due to privacy concerns. If you are interested and would like to talk, feel free to reach out via email: hgm2@sfu.ca.
+Below are some of the projects I'm working or completed, feel free to take a look!
 
 ## Ongoing
 - [**PacerBot, an assistant for runners while running**](https://github.com/themchandra/PacerBot)

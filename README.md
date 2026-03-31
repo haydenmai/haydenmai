@@ -3,7 +3,7 @@ I am Hayden, a student studying economics and computer science at Simon Fraser U
 - **Economics**: Econometrics & data science, involving policy evaluation & forecasting.
 - **Computer Science**: Embedded systems, machine learning, robotics.
 
-I often keep myself busy with microcontrollers & robot things such as SLAM. 
+I often keep myself busy with microcontrollers & robot things.
 
 Below are some of the projects I'm working or completed, feel free to take a look!
 

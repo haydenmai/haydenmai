@@ -7,6 +7,12 @@ I often keep myself busy with microcontrollers & robot things.
 
 Below are some of the projects I'm working or completed, feel free to take a look!
 
+## To-dos
+- Make a website showcasing projects
+- More coding funny projects
+- Finish my unfinished project(s)
+- Borrow time to make all of this happen
+
 ## Ongoing
 - [**PacerBot, an assistant for runners while running**](https://github.com/themchandra/PacerBot)
 	- Developing a robust UART communication line between Raspberry Pi and STM32.
